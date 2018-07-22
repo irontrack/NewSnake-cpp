@@ -1,0 +1,19 @@
+
+ITEMS
+
+GAME 
+	- has 1 MAP
+	- has 1 score
+	- function to animate the map
+
+MAP
+	- has boundaries
+	- has 1 snake
+	- has food
+	- function to generate food
+
+SNAKE
+	- has body ( dynamically allocated array of structs)
+
+
+ANIMATION

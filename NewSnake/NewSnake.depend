@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1531595242 source:c:\users\irontrack\documents\github\newsnake-cpp\newsnake\main.cpp
+	<iostream>
+	"animal.h"
+	"animal.cpp"
+
+1531595061 c:\users\irontrack\documents\github\newsnake-cpp\newsnake\animal.h
+
+1531595271 c:\users\irontrack\documents\github\newsnake-cpp\newsnake\animal.cpp
+	"animal.h"
+	<iostream>
+
