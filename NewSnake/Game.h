@@ -1,10 +1,13 @@
 #ifndef GAME_H_INCLUDED
 #define GAME_H_INCLUDED
 
+class Snake;
+class Map;
 class Game{
 private:
     int score;
     Map m_map;
+    Snake m_snake;
 
 public:
     Game();

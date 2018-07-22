@@ -38,6 +38,12 @@
 		<Unit filename="Game.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="Map.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Map.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="Snake.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

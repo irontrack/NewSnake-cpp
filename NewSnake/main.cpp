@@ -1,4 +1,5 @@
 #include <iostream>
+
 #include "Snake.h"
 #include "Snake.cpp"
 #include "Game.h"
@@ -11,7 +12,7 @@ int main()
 {
     cout << "Hello farm world!" << endl;
 
-   Game g;
+
 
 
     return 0;

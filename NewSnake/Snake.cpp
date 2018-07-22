@@ -1,13 +1,13 @@
 #include "Snake.h"
 
-    Snake::Snake(Map* mp){
-    m_map = mp;
+    Snake::Snake(){
+
     };
     Snake::~Snake(){
 
     };
     int Snake::get_length(){
-
+        return
     };
     int Snake::get_y_pos(int element){
     return m_body[element].y;
@@ -15,7 +15,7 @@
     int Snake::get_x_pos(int element){
     return m_body[element].x;
     };
-    void Snake::add_head(int x, int y){
+    void Snake::grow_snake(int x, int y){
         pos p
         p.x = x;
         p.y = y;

@@ -5,5 +5,12 @@
 
     };
     int Game::get_score();
-    bool Game::play();
-    void Game::update_screen();
+    bool Game::play(){
+        return false;
+    };
+    void Game::update_screen(){
+
+    };
+    int Game::get_score(){
+        return m_snake.get_length();
+    };
